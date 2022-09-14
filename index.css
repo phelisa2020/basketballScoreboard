@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: black;
+
+   
+}
+
+#score {
+    background: rgb(14, 11, 11);
+    color: #F94F6D;
+    width: 120px;
+    font-size: 100px;
+    margin: 100px;
+}
+
+#guest {
+    background: rgb(14, 11, 11);
+    color: #F94F6D;
+    width: 120px;
+    font-size: 100px;
+    margin: 100px;
+}
+
+.container {
+    width: 800px;
+    margin: 20px auto;
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black; 
+    background-color: rgb(2, 2, 49);
+
+    
+}
+button {
+    background: white;
+    color: black;
+
+}
+
+h3 {
+    color: white;
+    font-size: 60px;
+    
+}
